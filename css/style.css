@@ -1,0 +1,50 @@
+body {
+   background-color:beige;
+}
+
+h1{
+    color: orange;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+li {
+    color:rgb(149, 10, 101);
+    font-family: cursive;
+    font-size:40px;
+}
+
+/*this is my comment*/
+
+span {
+    color:pink;
+}
+
+.button 
+{   background-color: aqua;
+    margin-top: 50px  ;
+    border:solid 5px ;
+    padding: 50px;
+    width: 500px;
+}
+
+.pizza{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+
+h2{
+    color: brown;
+    font-size:40px ;
+}
+
+.one{
+    font-size: 20px;
+    color:rgb(149,10,101);
+}
+
+h3{
+    font-size: 20px;
+}
